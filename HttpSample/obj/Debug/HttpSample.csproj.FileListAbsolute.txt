@@ -1,0 +1,7 @@
+D:\代码\visual studio 2015\HouseSpider\HttpSample\bin\Debug\HttpSample.exe.config
+D:\代码\visual studio 2015\HouseSpider\HttpSample\obj\Debug\HttpSample.csprojResolveAssemblyReference.cache
+D:\代码\visual studio 2015\HouseSpider\HttpSample\bin\Debug\HttpSample.exe
+D:\代码\visual studio 2015\HouseSpider\HttpSample\bin\Debug\HttpSample.pdb
+D:\代码\visual studio 2015\HouseSpider\HttpSample\obj\Debug\HttpSample.exe
+D:\代码\visual studio 2015\HouseSpider\HttpSample\obj\Debug\HttpSample.pdb
+D:\代码\visual studio 2015\HouseSpider\HttpSample\bin\Debug\NSoup.dll
